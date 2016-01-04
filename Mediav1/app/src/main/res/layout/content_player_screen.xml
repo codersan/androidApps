@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_player_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sanjeevkumar.mediav1.PlayerScreenActivity"
+    tools:showIn="@layout/activity_player_screen" >
+
+    <ImageView
+        android:id="@+id/album_art"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:scaleType="centerCrop"
+        android:layout_centerHorizontal="true"
+        />
+
+    <RelativeLayout
+        android:id="@+id/BottomStripLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorBottom"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dimen_medium_text_size"
+            android:color="@color/colorBlack"/>
+
+        <TextView
+            android:id="@+id/listen_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/dimen_small_text_size"
+            android:layout_alignParentRight="true"
+            android:color="@color/colorBlack"/>
+
+        <TextView
+            android:id="@+id/current_time_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:textSize="@dimen/dimen_small_text_size"
+            android:color="@color/colorBlack"/>
+
+        <TextView
+            android:id="@+id/final_time_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:textSize="@dimen/dimen_small_text_size"
+            android:color="@color/colorBlack"
+            android:layout_alignParentRight="true"/>
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBar"
+            android:layout_below="@id/current_time_text_view"/>
+
+        <ImageView
+            android:id="@+id/player_activity_play_prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seekBar"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/play_prev_next_margin"
+            android:src="@android:drawable/ic_media_previous"/>
+
+        <ImageView
+            android:id="@+id/player_activity_play_loop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seekBar"
+            android:layout_toRightOf="@id/player_activity_play_prev"
+            android:layout_marginLeft="@dimen/play_prev_next_margin"
+            android:layout_marginTop="@dimen/margin5"
+            android:src="@drawable/play_loop"/>
+
+
+        <ImageView
+            android:id="@+id/player_activity_play_pause_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seekBar"
+            android:layout_centerHorizontal="true"
+            android:src="@android:drawable/ic_media_play"/>
+
+
+        <ImageView
+            android:id="@+id/player_activity_play_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seekBar"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/play_prev_next_margin"
+            android:src="@android:drawable/ic_media_next"/>
+
+    </RelativeLayout>
+    
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/list_item_left_margin"
+    android:paddingTop="@dimen/list_item_top_margin">
+    <ImageView
+        android:id="@+id/album_art"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/no_album_art"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/album_art"
+        android:padding="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:id="@+id/album_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Smells like teen spirit"/>
+
+        <TextView
+            android:id="@+id/album_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/album_title"
+            android:text="Nirvana"/>
+    </RelativeLayout>
+
+</RelativeLayout>

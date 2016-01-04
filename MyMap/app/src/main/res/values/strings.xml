@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="latitude_label">Latitude: </string>
+    <string name="longitude_label">Longitude: </string>
+    <string name="service_not_available">Service NA :( </string>
+    <string name="invalid_lat_long_used"> Invalid lat or lng given</string>
+    <string name="no_address_found">Unable to find address</string>
+    <string name="address_found">Address found are: </string>
+    <string name="no_geocoder_available">No geocoder Available</string>
+    <string name="dest_latitude_label">Destination Lat: </string>
+    <string name="dest_longitude_label">Destination Lng: </string>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+</resources>

@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/bgImageView"
+        android:src="@drawable/deepika7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+    <LinearLayout
+        android:id="@+id/loginForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="150dp">
+
+        <EditText
+            android:id="@+id/emailEditText"
+            android:textColor="@android:color/white"
+            android:hint="@string/emailHint"
+            style="@style/loginFormStyle"
+            android:inputType="textEmailAddress"
+            android:fontFamily="sans-serif-light"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/passwordEditText"
+            android:hint="@string/passwordHint"
+            style="@style/loginFormStyle"
+            android:inputType="textPassword"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="6dp"
+            android:singleLine="true"/>
+
+        <Button
+            android:id="@+id/loginButton"
+            android:text="@string/loginButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginTop="6dp"
+            android:clickable="true"
+            android:onClick="showUserName"/>
+
+        <Button
+            android:id="@+id/photoButton"
+            android:text="Photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:layout_marginTop="6dp"
+            android:clickable="true"
+            android:onClick="dispatchTakePictureIntent"/>
+    </LinearLayout>
+</RelativeLayout>

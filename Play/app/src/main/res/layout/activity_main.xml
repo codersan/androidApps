@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layout_padding"
+    android:background="#388E8E">
+
+   <!-- <TextView
+        android:id="@+id/latitude_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/latitude_label"
+        android:textSize="@dimen/lat_long_text_size" />
+
+    <TextView
+        android:id="@+id/latitude_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/latitude_label"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/latitude_label"
+        android:textIsSelectable="true"
+        android:textSize="@dimen/lat_long_text_size" />
+
+    <TextView
+        android:id="@+id/longitude_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/longitude_label"
+        android:layout_below="@id/latitude_label"
+        android:textSize="@dimen/lat_long_text_size" />
+
+    <TextView
+        android:id="@+id/longitude_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/longitude_label"
+        android:layout_toRightOf="@id/longitude_label"
+        android:layout_below="@id/latitude_text"
+        android:textIsSelectable="true"
+        android:layout_marginLeft="10px"
+        android:textSize="@dimen/lat_long_text_size" />
+
+
+    <TextView
+        android:id= "@+id/last_update_time_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/longitude_label"
+        android:textSize="16sp"
+        android:text="Time"/>
+
+    <TextView
+        android:id= "@+id/last_update_time_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/last_update_time_label"
+        android:layout_toRightOf="@id/last_update_time_label"
+        android:textSize="16sp" />
+
+    &lt;!&ndash; Input from user &ndash;&gt;
+    <TextView
+        android:id="@+id/dest_latitude_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dest_latitude_label"
+        android:layout_below="@id/last_update_time_label"
+        android:layout_marginTop="@dimen/line_margin"
+        android:textSize="@dimen/lat_long_text_size" />
+
+    <EditText
+        android:id="@+id/dest_latitude_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/dest_latitude_label"
+        android:layout_alignBaseline="@id/dest_latitude_label"
+        android:minWidth="80dp"
+        android:inputType="phone"
+        android:layout_marginTop="@dimen/line_margin"
+        android:textSize="@dimen/lat_long_text_size"
+        android:hint="Enter Lat"/>
+
+    <TextView
+        android:id="@+id/dest_longitude_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dest_longitude_label"
+        android:layout_below="@id/dest_latitude_label"
+        android:layout_marginTop="@dimen/line_margin"
+        android:textSize="@dimen/lat_long_text_size" />
+
+    <EditText
+        android:id="@+id/dest_longitude_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/dest_longitude_label"
+        android:layout_alignBaseline="@id/dest_longitude_label"
+        android:layout_below="@id/dest_latitude_text"
+        android:layout_marginLeft="10px"
+        android:minWidth="80dp"
+        android:inputType="phone"
+        android:textSize="@dimen/lat_long_text_size"
+        android:layout_marginTop="@dimen/line_margin"
+        android:hint="Enter lng"/>
+
+    <Button
+        android:id="@+id/go_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dest_longitude_label"
+        android:layout_centerHorizontal="true"
+        android:text="Go!!!"
+        android:layout_marginTop="20px"
+        android:clickable="true"
+        android:onClick="go"/>
+
+    <TextView
+        android:id="@+id/address_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/go_button"
+        android:text="Address"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/address_text_view"
+        android:text="Get Address"
+        android:layout_marginTop="40px"
+        android:clickable="true"
+        android:onClick="showAddress"/>
+-->
+
+</RelativeLayout>

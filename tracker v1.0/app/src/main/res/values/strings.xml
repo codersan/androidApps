@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locator</string>
+    <string name="title_activity_maps">Locator</string>
+    <string name="service_not_available">Service NA :( </string>
+    <string name="invalid_lat_long_used"> Invalid lat or lng given</string>
+    <string name="no_geocoder_available">No geocoder Available</string>
+    <string name="btn_text">Start</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on the device.</string>
+    <string name="distance_hint"></string>
+</resources>

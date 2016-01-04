@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-ceec63f41797ba2609bc9f914d8be8de17dbd61c.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-56e99643ae86d8c99be484afb36856bdb51158dc.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-b785849394ceedfe68180cea68b8e683d407ab39.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-9be0c036b9648c463682bbc7f3fa5a228b425d86.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-d3d2ead47cc132015b20f55c4f49f682d7cc0580.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-c1e55d78444a28a5bd7e171e9ff6927ee3e74e94.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8126456324def1fe555b42e5c9d41522bb4e048b.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-ac36e01cf05e102b9633b9432a0f211b6916f9c6.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-2751f91312a6276e4b8adfdec257995a538188bd.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-5dd65d0c6228b4b2b28287840f531e6b52357ba0.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-379229b2f20bd8523d74d41356b712fce5fc1fc7.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-e4d5ae6e8e6e871abbf32dd22d087f1393c62a73.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-4047344fa2bd27b664ed35bcb5f7e1d3d1b1cb6e.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-dac89e03b35d31862c70b1c55da5ff464bd79ad3.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-3fcee8e942221d8520b68e179f83b0c964e86404.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-beb6e2df3290dff9d9bbe39d823ffeb3a60d0731.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-25d7466c0d4714082ab9914414159f0f92ef4f35.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-a8ae619540e6a19520f5f07527fe5924910063c4.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-600ce7ccc69a3ae74ecd2cf45c93ae0d58c40b77.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-94e15288faaba18f52f1907b9f843c0766ae9d53.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-558134468a021cfbd7595b0f53e4215b4ee89c0e.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-54bf712380f664a746123867db70930d67b540ae.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-ad7c01d792a495ca28296b3713067d3bdf2f2c35.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-dfe476d73fa6fb56ec840e4647f6a6e698be49c4.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-b947c47104506b6f731501c5eff16e52c42289eb.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3417f1c8c96236c379ae029aa0ec11cd3ab09ebc.jar" />
+    </item>
+    <item
+        jar="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/sanjeevkumar/AndroidStudioProjects/git/locate/app/build/intermediates/pre-dexed/debug/classes-3ad70284b4c97e0ab0fe66a98c9dfd6562b7abe6.jar" />
+    </item>
+
+</items>

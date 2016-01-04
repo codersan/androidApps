@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interaction</string>
+
+    <string name="quantityText">Quantity</string>
+    <string name="quantityValue">0</string>
+    <string name="price_text_text_view">Price</string>
+    <string name="price_text_view">$0</string>
+    <string name="buttonText">Order</string>
+    <string name="action_settings">Settings</string>
+</resources>

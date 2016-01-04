@@ -1,0 +1,45 @@
+<RelativeLayout
+    android:id="@+id/BottomStripLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/colorBottom"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/bottom_bar_album_art"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/no_album_art"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/bottom_bar_album_art"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/bottom_bar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title NA"/>
+
+        <TextView
+            android:id="@+id/bottom_bar_album_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bottom_bar_title"
+            android:text="Album Artist NA"/>
+
+        <ImageView
+            android:id="@+id/bottom_bar_play_pause_current"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin10"
+            android:src="@android:drawable/ic_media_play"
+            android:clickable="true"/>
+
+    </RelativeLayout>
+
+  </RelativeLayout>
