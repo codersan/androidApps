@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sanjeevkumar.mediav1">
+    package="com.dplovers.sanjeevkumar.mediav1">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -11,7 +11,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.dplovers.sanjeevkumar.mediav1.MainActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,13 +25,13 @@
         </activity>
 
         <activity
-            android:name=".PlayerScreenActivity"
+            android:name="com.dplovers.sanjeevkumar.mediav1.PlayerScreenActivity"
             android:label="@string/title_activity_player_screen"
             android:theme="@style/AppTheme.NoActionBar"
-            android:parentActivityName="com.example.sanjeevkumar.mediav1.MainActivity">
+            android:parentActivityName="com.dplovers.sanjeevkumar.mediav1.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.sanjeevkumar.mediav1.MainActivity" />
+                android:value="com.dplovers.sanjeevkumar.mediav1.MainActivity" />
         </activity>
     </application>
 
